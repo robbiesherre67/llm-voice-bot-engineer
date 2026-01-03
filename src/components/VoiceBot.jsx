@@ -47,7 +47,8 @@ export default function VoiceBot() {
       role: "bot",
       time: nowTime(),
       content:
-        "Hi! I’m your Voice Bot Engineer demo.\n\nStep F is live: streaming tokens + barge-in. Start Listening while I’m speaking to interrupt.",
+        "Real-time response streaming with interruption support is enabled.
+You can begin speaking at any time to interrupt playback.",
     },
   ]);
 
