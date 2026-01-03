@@ -401,8 +401,7 @@ export default function VoiceBot() {
           <div className="hr" />
 
           <div className="small">
-            Step F complete: streaming tokens + barge-in. Next (optional): sentence-buffered streaming TTS + event log panel.
-          </div>
+           Real-time voice interactions with interruption support are enabled. Optional upgrades include optimized speech buffering and analytics instrumentation.          </div>
         </div>
       </div>
     </div>
