@@ -47,8 +47,7 @@ export default function VoiceBot() {
       role: "bot",
       time: nowTime(),
       content:
-        "Real-time response streaming with interruption support is enabled.
-You can begin speaking at any time to interrupt playback.",
+        "Real-time response streaming with interruption support is enabled. You can begin speaking at any time to interrupt playback.",
     },
   ]);
 
